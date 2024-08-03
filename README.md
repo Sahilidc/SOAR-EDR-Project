@@ -8,7 +8,7 @@
 
 ----------
 
-**Story:**
+### **Story:**
 
 
 ![Screenshot 2024-08-03 222323](https://github.com/user-attachments/assets/8ade0ed6-284f-44d9-84c6-19b8148c256d)
@@ -58,15 +58,15 @@
         -   Message: "The computer <computer> was not isolated, please investigate."
 
 ----------
-**EVENT**
+### **EVENT**
 
 ![Opera Snapshot_2024-08-03_233124_app limacharlie io](https://github.com/user-attachments/assets/d7a96611-bc43-490c-95ae-3b0f75030e7e)
 
-**Detection Of LaZagne**
+### **Detection Of LaZagne**
 
 ![Opera Snapshot_2024-08-03_233354_app limacharlie io](https://github.com/user-attachments/assets/96325267-48c0-4132-8851-d3d60ef8250e)
 
-**Result of Detect Rule**
+### **Result of Detect Rule**
 
 ![Opera Snapshot_2024-08-03_233558_app limacharlie io](https://github.com/user-attachments/assets/69a4caf8-7919-4c34-8bce-13f3860ce4cc)
 
