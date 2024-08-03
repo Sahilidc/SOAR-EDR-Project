@@ -57,12 +57,20 @@
 
 1.  **Detection:**
     -   LimaCharlie detects the usage of the Lazagne hack tool on a compromised machine.
+    -   ![Opera Snapshot_2024-08-03_233010_app limacharlie io](https://github.com/user-attachments/assets/74034d99-b51a-4f4d-a2bc-e4a24945ff0d)
+
 2.  **Alert Generation:**
     -   An alert is generated in Tines with detailed information about the detection.
+    -   ![Opera Snapshot_2024-08-03_233022_github com](https://github.com/user-attachments/assets/a75a3233-9f20-4b1d-a314-3ae2eed018d1)
+
+    -   
 3.  **User Notification:**
     -   The alert details are sent via Slack and Email to notify the user.
+    -   ![Opera Snapshot_2024-08-04_000247_app slack com](https://github.com/user-attachments/assets/09c3ee40-ff3e-4a99-af8f-94c777f5870b)
+
 4.  **User Decision:**
     -   The user is prompted to decide whether to isolate the machine.
+    -   
 5.  **Automated Response:**
     -   If the user chooses to isolate the machine, LimaCharlie performs the isolation, and Slack is updated with the isolation status.
     -   If the user decides not to isolate the machine, a notification is sent to Slack requesting further investigation.
