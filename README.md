@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/9be0f952-48aa-434f-90b7-b85bf316e52b)
-
-
 ## **Title:** SOAR EDR Project - Automated Detection and Response for Credential Access Attacks
+
+![image](https://github.com/user-attachments/assets/9be0f952-48aa-434f-90b7-b85bf316e52b)
 
 **Description:** This project demonstrates an automated Security Orchestration, Automation, and Response (SOAR) system integrated with Endpoint Detection and Response (EDR) to detect and respond to credential access attacks using the Lazagne hack tool.
 
